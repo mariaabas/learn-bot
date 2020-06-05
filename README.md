@@ -1,2 +1,4 @@
 # learn-bot
-Bot for Telegram using node.js
+:speech_balloon: Bot for Telegram using node.js
+
+
