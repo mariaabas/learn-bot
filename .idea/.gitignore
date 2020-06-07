@@ -8,5 +8,5 @@
 /httpRequests/
 
 #Ignored files
-./.idea/sonarlint
-./node_modules
+node_modules/
+.idea/sonarlint
